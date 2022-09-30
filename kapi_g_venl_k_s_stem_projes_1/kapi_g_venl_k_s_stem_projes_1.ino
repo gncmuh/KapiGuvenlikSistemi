@@ -25,7 +25,7 @@ char hafiza[4];
 char yon_karakterleri[4]={'<','>','H','E'}; //A SOL B SAG C TEMİZLE D EVET
 bool bayrak=false;
 bool tus=false;
-int gelen_tus;
+char gelen_tus;
 unsigned long zaman=0;
 byte sayac=7; // blink olacak kısım seçilir
 byte hafiza_sayaci=0;
