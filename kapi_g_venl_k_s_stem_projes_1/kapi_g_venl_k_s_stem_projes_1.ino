@@ -1,3 +1,6 @@
+/*Herkese iyi çalışmalar diliyorum.
+ Sabri Genç
+ */
 #include <Keypad.h>
 #include <LiquidCrystal_I2C.h>
 #include <Servo.h>
